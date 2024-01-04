@@ -1,0 +1,4 @@
+This week, implemented a CNN for handwritten digits classification.
+The file contains three basic CNN models: a model with 2 convolution layers and 2 fully connected layers; the second is the first one including batch normalisation; the third one also contains a dropout layer
+The time taken for execution was least with the 3rd model and most with 2nd.
+The accuracy was almost same for all model and was around 98%. The accuracy decreased a bit with decreasing number of epochs but runtime reduced significantly. 
